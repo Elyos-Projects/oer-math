@@ -1,0 +1,26 @@
+{
+  "id": "fractions-practice-set-001",
+  "title": "Create an open practice set on adding fractions (grade 4)",
+  "project": "oer-math",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": ["education", "oer"],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "small",
+  "status": "open",
+  "context": "An under-funded school district needs free, ready-to-use math practice materials.",
+  "objective": "Produce a grade-4 practice set on adding fractions with an answer key.",
+  "acceptanceCriteria": [
+    "20 problems of increasing difficulty",
+    "Worked answer key included",
+    "Plain Markdown, printable, no third-party copyrighted content"
+  ],
+  "resources": [],
+  "output": "/output/fractions-grade4.md",
+  "requestor": "example-school-district",
+  "verifiedNeed": true,
+  "outputLicense": "CC-BY-4.0"
+}
