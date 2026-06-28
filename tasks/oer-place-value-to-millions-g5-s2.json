@@ -1,0 +1,29 @@
+{
+  "id": "oer-place-value-to-millions-g5-s2",
+  "title": "Grade 5 practice set 2: place value to millions",
+  "project": "oer-math",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "education",
+    "oer"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "small",
+  "status": "open",
+  "context": "An under-funded school district needs free, ready-to-use math practice materials. Original content for Elyos; no third-party copyrighted material.",
+  "objective": "Produce grade-5 practice set 2 on \"place value to millions\" with a worked answer key.",
+  "acceptanceCriteria": [
+    "20 problems of increasing difficulty",
+    "Worked answer key included",
+    "Plain Markdown, printable, no third-party copyrighted content"
+  ],
+  "resources": [],
+  "output": "/output/oer-place-value-to-millions-g5-s2.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
